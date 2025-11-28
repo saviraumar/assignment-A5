@@ -1,0 +1,30 @@
+--- Training GRU ---
+Epoch 1/15, Loss = 2.5576
+Epoch 2/15, Loss = 2.2017
+Epoch 3/15, Loss = 2.0000
+Epoch 4/15, Loss = 1.9649
+Epoch 5/15, Loss = 1.9262
+Epoch 6/15, Loss = 1.8938
+Epoch 7/15, Loss = 1.8859
+Epoch 8/15, Loss = 1.8858
+Epoch 9/15, Loss = 1.8902
+Epoch 10/15, Loss = 1.8635
+Epoch 11/15, Loss = 1.8616
+Epoch 12/15, Loss = 1.8411
+Epoch 13/15, Loss = 1.8400
+Epoch 14/15, Loss = 1.8398
+Epoch 15/15, Loss = 1.8397
+
+--- Evaluating Accuracy ---
+
+Next-character accuracy: 97.62%
+
+--- Generating Text ---
+
+ Generated Text Output
+
+relativityis a theory by albert einstein.relttivity is a theory by albert einstein.relttivity is a theory by albert einstein.relttivity is a theory by albert einstein.relttivity is a theory by albert einstein.relttivity is a theory by albert einstein.relttivit
+
+-------------------------------------------
+
+Process finished with exit code 0
